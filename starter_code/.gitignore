@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.jpg
+*.png
+*.gif
+*.cpython
+migrations/
